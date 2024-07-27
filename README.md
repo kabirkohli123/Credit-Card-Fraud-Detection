@@ -81,3 +81,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
+Thank you for using the Credit Card Fraud Detection project! If you have any questions or need further assistance, please feel free to contact us.
+
+Happy coding!
