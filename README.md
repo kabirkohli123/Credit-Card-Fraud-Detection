@@ -37,7 +37,7 @@ Credit card fraud is a significant issue in the financial industry. This project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   git clone https://github.com/kabirkohli123/credit-card-fraud-detection.git
    cd credit-card-fraud-detection
    ```
 
